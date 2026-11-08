@@ -45,7 +45,7 @@ rag-pdf-chatbot/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/rag-pdf-chatbot.git
+git clone https://github.com/Laibarehman-SE/rag-pdf-chatbot.git
 cd rag-pdf-chatbot
 ```
 
